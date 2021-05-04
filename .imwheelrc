@@ -7,6 +7,8 @@ Control_L,     Left,        Super_L|Control_L|less
 Control_L,     Right,       Super_L|Control_L|greater
 Shift_L,       Left,        Super_L|bracketleft
 Shift_L,       Right,       Super_L|bracketright
+Alt_L,         Right,       Super_L|Right
+Alt_L,         Left,        Super_L|Left
 None,          Thumb1,      XF86Back
 #None,         Thumb2,      XF86Forward
 None,          Thumb2,      XF86AudioPlay
