@@ -1,10 +1,12 @@
 ".*"
-None,       Up,      Button4,                          3
-None,       Down,    Button5,                          3
-Control_L,  Left,    Super_L|less
-Control_L,  Right,   Super_L|greater
-None,       Left,    Super_L|Control_L|less
-None,       Right,   Super_L|Control_L|greater
-None,       Thumb1,  XF86Back
-#None,      Thumb2,  XF86Forward
-None,       Thumb2,  XF86AudioPlay
+None,          Up,          Button4,                          3
+None,          Down,        Button5,                          3
+None,          Left,        Super_L|less
+None,          Right,       Super_L|greater
+Control_L,     Left,        Super_L|Control_L|less
+Control_L,     Right,       Super_L|Control_L|greater
+Shift_L,       Left,        Super_L|bracketleft
+Shift_L,       Right,       Super_L|bracketright
+None,          Thumb1,      XF86Back
+#None,         Thumb2,      XF86Forward
+None,          Thumb2,      XF86AudioPlay
